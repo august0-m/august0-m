@@ -7,11 +7,17 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiando Ciencias de la computación en la Universidad de Buenos Aires 
-- 💼 Interesado en el cruce entre tecnología, negocios y economía digital
+- 🌍 Interesado en aplicar tecnología a productos digitales y desafíos de negocio  
 - 🔧 Experiencia en programación de bajo nivel, algoritmos y estructuras de datos
 - 🤝 Me gusta trabajar en equipo y comunicar ideas técnicas de forma clara
-
+- 
 ---
+
+## 🧠 En qué me enfoco
+- Diseño de soluciones eficientes y escalables  
+- Comprensión profunda del funcionamiento de sistemas (memoria, CPU, bajo nivel)  
+- Resolución de problemas complejos con estructuras de datos y algoritmos  
+
 
 ## 🛠️ Tecnologías
 
@@ -30,19 +36,33 @@
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Kernel Básico](https://github.com/august0-m/kernel-2c25) | Kernel bare-metal con drivers y 2 juegos | C · x86 ASM |
-| [TDA](https://github.com/august0-m/TDA-1c2025) | Grafos, backtracking y programación dinámica | Python · C++ |
-| [Sistemas Digitales](https://github.com/august0-m/sistemas-digitales-2c24) | Circuitos y algoritmos en RISC-V | RISC-V ASM |
+### 🧩 Kernel Bare-Metal
+🔗 https://github.com/august0-m/kernel-2c25  
+Desarrollé un kernel bare-metal en C y x86 Assembly, implementando manejo de memoria, interrupciones y drivers básicos, permitiendo la ejecución de múltiples programas interactivos (incluyendo 2 juegos) sin sistema operativo subyacente.  
+
+→ Enfocado en comprender el funcionamiento interno del hardware y la abstracción de recursos a bajo nivel.
+
+---
+
+### 📊 Algoritmos y Estructuras de Datos (TDA)
+🔗 https://github.com/august0-m/TDA-1c2025  
+Implementé soluciones a problemas complejos utilizando grafos, backtracking y programación dinámica en C++ y Python, abordando desafíos de optimización y alta complejidad computacional.  
+
+→ Desarrollo de soluciones eficientes priorizando rendimiento y escalabilidad.
+
+---
+
+### ⚙️ Sistemas Digitales (RISC-V)
+🔗 https://github.com/august0-m/sistemas-digitales-2c24  
+Diseñé e implementé circuitos y algoritmos en RISC-V Assembly, trabajando directamente sobre la arquitectura para comprender la ejecución a nivel de instrucciones.  
+
+→ Profundización en arquitectura de computadoras y ejecución de programas a bajo nivel.
+
+---
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=august0-m&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=august0-m&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=august0-m&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="40%"/>
 </p>
