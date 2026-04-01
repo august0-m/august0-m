@@ -62,5 +62,5 @@ Diseñé e implementé circuitos y algoritmos en RISC-V Assembly, trabajando dir
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=august0-m&theme=tokyonight&show_icons=true&hide_border=true&layout=compact](https://streak-stats.demolab.com/?user=august0-m&theme=tokyonight&hide_border=true" width="40%"/>
+ <img src="https://streak-stats.demolab.com/?user=august0-m&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
