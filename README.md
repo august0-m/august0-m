@@ -34,28 +34,11 @@
 ---
 
 ## 🚀 Proyectos destacados
-
-### 🧩 Kernel Bare-Metal
-🔗 https://github.com/august0-m/kernel-2c25  
-Desarrollé un kernel bare-metal en C y x86 Assembly, implementando manejo de memoria, interrupciones y drivers básicos, permitiendo la ejecución de múltiples programas interactivos (incluyendo 2 juegos) sin sistema operativo subyacente.  
-
-→ Enfocado en comprender el funcionamiento interno del hardware y la abstracción de recursos a bajo nivel.
-
----
-
-### 📊 Algoritmos y Estructuras de Datos (TDA)
-🔗 https://github.com/august0-m/TDA-1c2025  
-Implementé soluciones a problemas complejos utilizando grafos, backtracking y programación dinámica en C++ y Python, abordando desafíos de optimización y alta complejidad computacional.  
-
-→ Desarrollo de soluciones eficientes priorizando rendimiento y escalabilidad.
-
----
-
-### ⚙️ Sistemas Digitales (RISC-V)
-🔗 https://github.com/august0-m/sistemas-digitales-2c24  
-Diseñé e implementé circuitos y algoritmos en RISC-V Assembly, trabajando directamente sobre la arquitectura para comprender la ejecución a nivel de instrucciones.  
-
-→ Profundización en arquitectura de computadoras y ejecución de programas a bajo nivel.
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [Kernel Básico](https://github.com/august0-m/kernel-2c25) | Kernel bare-metal con drivers y 2 juegos embebidos — desarrollado desde cero sin soporte de sistema operativo. Demuestra pensamiento en sistemas y la capacidad de trabajar en entornos altamente restringidos y ambiguos. | C · x86 ASM |
+| [Diseño de Algoritmos](https://github.com/august0-m/TDA-1c2025) | Implementé grafos, backtracking y programación dinámica para resolver problemas complejos de optimización — las mismas técnicas utilizadas en routing, logística y sistemas de recomendación. | Python · C++ |
+| [Sistemas Digitales](https://github.com/august0-m/sistemas-digitales-2c24) | Diseñé circuitos y algoritmos a nivel de hardware usando RISC-V — comprendiendo la computación desde sus fundamentos. | RISC-V ASM |
 
 ---
 
