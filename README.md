@@ -32,19 +32,19 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Kernel Básico](https://github.com/TU_USERNAME/kernel-2c25) | Kernel bare-metal con drivers y 2 juegos | C · x86 ASM |
-| [TDA](https://github.com/TU_USERNAME/TDA-1c2025) | Grafos, backtracking y programación dinámica | Python · C++ |
-| [Sistemas Digitales](https://github.com/TU_USERNAME/sistemas-digitales-2c24) | Circuitos y algoritmos en RISC-V | RISC-V ASM |
+| [Kernel Básico](https://github.com/august0-m/kernel-2c25) | Kernel bare-metal con drivers y 2 juegos | C · x86 ASM |
+| [TDA](https://github.com/august0-m/TDA-1c2025) | Grafos, backtracking y programación dinámica | Python · C++ |
+| [Sistemas Digitales](https://github.com/august0-m/sistemas-digitales-2c24) | Circuitos y algoritmos en RISC-V | RISC-V ASM |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=august0-m&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=august0-m&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=august0-m&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="40%"/>
 </p>
