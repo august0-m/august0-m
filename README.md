@@ -1,6 +1,6 @@
 # Hola, soy Augusto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Estudiante+de+Inform%C3%A1tica+%F0%9F%8E%93;Amante+del+bajo+nivel+%F0%9F%94%A7;Algoritmos+%2B+Sistemas+%F0%9F%92%BB)](https://github.com/TU_USERNAME)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Estudiante+de+ciencias+de+la+computaci%C3%B3n;Algoritmos+%2B+Sistemas+%F0%9F%92%BB)](https://github.com/august0-m)
 
 ---
 
