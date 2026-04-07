@@ -6,10 +6,10 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiando Ciencias de la computación en la Universidad de Buenos Aires 
-- 🌍 Interesado en aplicar tecnología a productos digitales y desafíos de negocio  
-- 🔧 Experiencia en programación de bajo nivel, algoritmos y estructuras de datos
-- 🤝 Me gusta trabajar en equipo y comunicar ideas técnicas de forma clara
+-  Estudiando Ciencias de la computación en la Universidad de Buenos Aires 
+-  Interesado en aplicar tecnología a productos digitales y desafíos de negocio  
+-  Experiencia en programación de bajo nivel, algoritmos y estructuras de datos
+-  Me gusta trabajar en equipo y comunicar ideas técnicas de forma clara
 ---
 
 ## 🧠 En qué me enfoco
@@ -39,11 +39,3 @@
 | [Kernel Básico](https://github.com/august0-m/kernel-2c25) | Kernel bare-metal con drivers y 2 juegos embebidos, desarrollado desde cero sin soporte de sistema operativo. Demuestra pensamiento en sistemas y la capacidad de trabajar en entornos altamente restringidos y ambiguos. | C · x86 ASM |
 | [Diseño de Algoritmos](https://github.com/august0-m/TDA-1c2025) | Implementé grafos, backtracking y programación dinámica para resolver problemas complejos de optimización, las mismas técnicas utilizadas en routing, logística y sistemas de recomendación. | Python · C++ |
 | [Sistemas Digitales](https://github.com/august0-m/sistemas-digitales-2c24) | Diseñé circuitos y algoritmos a nivel de hardware usando RISC-V, comprendiendo la computación desde sus fundamentos. | RISC-V ASM |
-
----
-
-
-## 📊 GitHub Stats
-<p align="center">
- <img src="https://streak-stats.demolab.com/?user=august0-m&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
