@@ -2,15 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Estudiante+de+ciencias+de+la+computaci%C3%B3n;Algoritmos+%2B+Sistemas+%F0%9F%92%BB)](https://github.com/august0-m)
 
----
 
 ## 👨‍💻 Sobre mí
 
--  Estudiando Ciencias de la computación en la Universidad de Buenos Aires 
 -  Interesado en aplicar tecnología a productos digitales y desafíos de negocio  
 -  Experiencia en programación de bajo nivel, algoritmos y estructuras de datos
 -  Me gusta trabajar en equipo y comunicar ideas técnicas de forma clara
----
 
 ## 🧠 En qué me enfoco
 - Diseño de soluciones eficientes y escalables  
@@ -31,7 +28,6 @@
 
 **También:** x86 Assembly · RISC-V Assembly
 
----
 
 ## 🚀 Proyectos destacados
 | Proyecto | Descripción | Tecnologías |
