@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mí
 -  Interesado en aplicar tecnología a productos digitales y desafíos de negocio  
--  Experiencia en programación de bajo nivel, algoritmos y estructuras de datos
+-  Experiencia en programación de bajo nivel, algoritmos, estructuras de datos y automatizaciones
 -  Me gusta trabajar en equipo y comunicar ideas técnicas de forma clara
 
 ## 🧠 En qué me enfoco
@@ -31,13 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 </p>
 
-**También:** x86 Assembly & RISC-V Assembly
+**También:** x86 Assembly , RISC-V Assembly & n8n
 
 ## Últimos Proyectos 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [Seju App](https://seju-app-54.web.app) | App multiplataforma (iOS, Android, Web) para la Semana de la Juventud N°54. Sistema con cronograma en tiempo real, noticias, notificaciones y 5 niveles de acceso diferenciados. Backend serverless sobre Firebase. Repositorio privado, demo en el link. | Flutter, Dart, Firebase Auth & Firestore |
-| [Agus Ruiz Perfumes](https://agustruizperfumes.com) | Sitio web con catálogo de productos para un cliente del rubro perfumería. Creación de base de datos para productos, dominio propio y despliegue automatizado en Cloudflare. | HTML, JavaScript & Cloudflare |
+| [Agus Ruiz Perfumes](https://agusruizperfumes.com) | Sitio web con catálogo de productos para un cliente del rubro perfumería. Estructura de datos de productos en archivos JS, dominio propio y despliegue automatizado en Cloudflare. | HTML, JavaScript & Cloudflare |
 | [Worship App](https://worship13.web.app/) | Demo de app de bienestar para cliente: meditación, tracking de hábitos, lectura de frases motivacionales y método Pomodoro integrado. Backend serverless sobre Firebase. | Flutter, Dart & Firebase |
 
 ## 🚀 Proyectos destacados
