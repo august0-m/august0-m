@@ -35,7 +35,8 @@
 
 ## Últimos Proyectos 
 | Proyecto | Descripción | Tecnologías |
-|[Seju App](https://sejuturdera.com.ar) | PWA multiplataforma para la Semana de la Juventud N°54. Core: cronograma en tiempo real, noticias, actividades y 5 roles de acceso. Engagement: quizzes de personalidad y editor de fotos con overlays temáticos procesados localmente (sin guardar imágenes). Hosting en Cloudflare, backend serverless. Repositorio privado. | Flutter Web, Dart, Firebase Auth & Firestore | |
+|---|---|---|
+| [Seju App](https://sejuturdera.com.ar) | PWA multiplataforma para la Semana de la Juventud N°54. Core: cronograma en tiempo real, noticias, actividades y 5 roles de acceso. Engagement: quizzes de personalidad y editor de fotos con overlays temáticos procesados localmente (sin guardar imágenes). Hosting en Cloudflare, backend serverless. Repositorio privado. | Flutter Web, Dart, Firebase Auth & Firestore |
 | [Agus Ruiz Perfumes](https://agusruizperfumes.com) | Sitio web con catálogo de productos para un cliente del rubro perfumería. Estructura de datos de productos en archivos JS, dominio propio y despliegue automatizado en Cloudflare. Los clientes se enganchan con ayuda para elegir su perfume ideal. | HTML, JavaScript & Cloudflare |
 | [Worship App](https://worship13.web.app/) | Demo de app de bienestar para cliente: meditación, tracking de hábitos, lectura de frases motivacionales y método Pomodoro integrado. Backend serverless sobre Firebase. | Flutter, Dart & Firebase |
 
